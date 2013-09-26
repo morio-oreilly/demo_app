@@ -26,7 +26,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="3" selection-start="447" selection-end="447" vertical-scroll-proportion="0.60504204">
+            <state line="24" column="3" selection-start="447" selection-end="447" vertical-scroll-proportion="0.6070826">
               <folding />
             </state>
           </provider>
@@ -105,6 +105,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Rails.Development: demo_app">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -361,7 +362,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="3" selection-start="447" selection-end="447" vertical-scroll-proportion="0.60504204">
+        <state line="24" column="3" selection-start="447" selection-end="447" vertical-scroll-proportion="0.6070826">
           <folding />
         </state>
       </provider>
